@@ -20,3 +20,12 @@ input[type="submit"] {
 form div {
     margin: 10px;
 }
+
+#img {
+    margin: 15px;
+    text-align: center;
+}
+
+img[src*="ytimg"] {
+    padding-bottom: 20px;
+}
