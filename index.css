@@ -1,6 +1,7 @@
 h1 {
     color: red;
     font-size: 40px;
+    text-align: center;
 }
 
 body {
@@ -14,4 +15,8 @@ body {
 
 input[type="submit"] {
     color: green;
+}
+
+form div {
+    margin: 10px;
 }
